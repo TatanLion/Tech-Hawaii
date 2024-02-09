@@ -36,8 +36,6 @@ Por favor lee el [CONTRIBUTING.md](https://github.com/TatanLion/Platzi-Hawaii) p
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
 * **Jonathan Amaya** - *Ing Sistemas - Desarrollador Web* - [TatanLion](https://github.com/TatanLion)
 
 ## Expresiones de Gratitud 🎁
